@@ -15,7 +15,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 public class IntoTheDeepTele extends LinearOpMode {
 
 
-
+//quang is stinky
     private DcMotor leftFront;
     private DcMotor rightFront;
     private DcMotor leftBack;
